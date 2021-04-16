@@ -9,8 +9,8 @@
 
 ````bash
 > help --contact
-> linkedin: https://www.linkedin.com/in/lukemelto/
-> instagram: https://www.instagram.com/_guiseppi/
-> medium: https://lukemelto.medium.com/
-> mailto: lmelto [at] me.com
+> linkedin: [LinkedIn](https://www.linkedin.com/in/lukemelto/)
+> instagram: [Instagram](https://www.instagram.com/_guiseppi/)
+> medium: [Medium](https://lukemelto.medium.com/)
+> mailto: [lmelto@me.com](mailto:lmelto@me.com)
 ````
