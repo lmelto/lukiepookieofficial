@@ -9,7 +9,7 @@
 
 ````bash
 > help --contact
-> linkedin: [LinkedIn](https://www.linkedin.com/in/lukemelto/)
+> linkedin: <https://www.linkedin.com/in/lukemelto/>
 > instagram: [Instagram](https://www.instagram.com/_guiseppi/)
 > medium: [Medium](https://lukemelto.medium.com/)
 > mailto: [lmelto@me.com](mailto:lmelto@me.com)
